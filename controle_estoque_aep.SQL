@@ -1,3 +1,6 @@
+create database Db_estoque
+use Db_estoque
+
 /*esta tabela servirá para realizar o cadastro do funcionário
 e atribuir o cargo, para gerenciar o nível de permissão necessário*/
 create table funcionario(
